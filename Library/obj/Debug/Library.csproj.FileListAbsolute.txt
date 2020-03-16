@@ -1,0 +1,10 @@
+D:\CopaFifa\Library\bin\Debug\Library.dll
+D:\CopaFifa\Library\bin\Debug\Library.pdb
+D:\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\CopaFifa\Library\obj\Debug\Library.dll
+D:\CopaFifa\Library\obj\Debug\Library.pdb
+C:\Users\rodri\Desktop\Etec\2Q\DS - Luiz Fernando & Quitéria\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Etec\2Q\DS - Luiz Fernando & Quitéria\CopaFifa\Library\obj\Debug\Library.dll
+C:\Users\rodri\Desktop\Etec\2Q\DS - Luiz Fernando & Quitéria\CopaFifa\Library\obj\Debug\Library.pdb
+C:\Users\rodri\Desktop\Etec\2Q\DS - Luiz Fernando & Quitéria\CopaFifa\Library\bin\Debug\Library.dll
+C:\Users\rodri\Desktop\Etec\2Q\DS - Luiz Fernando & Quitéria\CopaFifa\Library\bin\Debug\Library.pdb
